@@ -12,7 +12,7 @@ Zomato is a leading online food delivery and restaurant discovery platform. It a
 - Provided actionable recommendations based on the findings to enhance the understanding of the culinary landscape.
 
 ## INSIGHTS:-
-![Uploading Exploratory Data Analysis - Jupyter Notebook - Google Chrome 05-07-2023 15_05_06.png…]()
+[Uploading Exploratory Data Analysis - Jupyter Notebook - Google Chrome 05-07-2023 15_05_06.png…]()
 
 
 
